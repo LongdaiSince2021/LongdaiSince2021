@@ -1,4 +1,4 @@
-Stydy C/asm/ARM
+Study C/asm/ARM
 
 <!---
 LongdaiSince2021/LongdaiSince2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
